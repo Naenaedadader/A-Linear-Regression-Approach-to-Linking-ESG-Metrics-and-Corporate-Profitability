@@ -29,3 +29,9 @@ Randomly split the data into training and testing sets (e.g., 80% training, 20% 
 
 
 **DATA** combine_esgscore_10y
+
+
+
+**CONCLUSION**
+
+This study analyzed the relationship between companies' environmental efforts and financial performance using data from 1499 firms over 10 years (2014–2023). The findings show that resource use efficiency consistently has a positive impact on profitability, while environmental innovation and emissions scores exhibit more complex relationships, potentially involving short-term costs and long-term benefits that warrant further exploration. Among the two regression models, the inclusion of a constant term in Model 2 resulted in a lower SSE, making it the preferred model. Additionally, control variables such as EBITDA and price close positively influence profitability, while total assets show a negative association, possibly due to diminishing returns and higher costs in larger firms. However, the study’s explanatory power is limited by the selection of only six environmental factors, suggesting that future research should incorporate a broader range of variables to provide deeper insights.
