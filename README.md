@@ -27,10 +27,10 @@ A maximum of 20 independent variables can be used, including environmental indic
 
 Randomly split the data into training and testing sets (e.g., 80% training, 20% testing). Use the testing set to evaluate the model's forecasting ability and ensure it avoids overfitting.
 
-
+--------------
 **DATA** combine_esgscore_10y
 
-
+--------------
 
 **CONCLUSION**
 
