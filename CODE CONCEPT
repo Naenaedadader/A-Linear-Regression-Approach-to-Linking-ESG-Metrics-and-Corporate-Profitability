@@ -1,0 +1,17 @@
+CODE CONCEPT
+
+1.DATA Initial
+
+2.Fill the spaces with the median and do group by based on date
+
+3.Rank normalize
+
+4.Doing linear regression
+
+5.Model_1 without constant
+
+6.Model 2 with constant
+
+7.Calculate the results of the test set
+
+8.Draw a partial regression line to observe the influence of each coefficient on the model
